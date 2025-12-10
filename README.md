@@ -30,6 +30,8 @@ Desenvolvedor em formação focado em **Python**, **Blockchain**, **Ciberseguran
 ### Onde me encontrar
 
 [LinkedIn – Gustavo Prado](https://www.linkedin.com/in/gustavo-prado-030a93386/)
+[Instagram - stavoprado](https://www.instagram.com/stavoprado/?next=%2F)
+
 
 ---
 
