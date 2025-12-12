@@ -34,10 +34,3 @@ Desenvolvedor em formação focado em **Python**, **Blockchain**, **Ciberseguran
 
 
 ---
-
-### Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pr4doxxy&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr4doxxy&layout=compact&theme=dark" />
-</p>
